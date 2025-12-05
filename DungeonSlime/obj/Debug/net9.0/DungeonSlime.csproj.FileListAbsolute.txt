@@ -32,3 +32,5 @@ c:\source\DungeonSlime\DungeonSlime\obj\Debug\net9.0\DungeonSlime.pdb
 c:\source\DungeonSlime\DungeonSlime\obj\Debug\net9.0\DungeonSlime.genruntimeconfig.cache
 c:\source\DungeonSlime\DungeonSlime\obj\Debug\net9.0\ref\DungeonSlime.dll
 c:\source\DungeonSlime\DungeonSlime\obj\Debug\net9.0\DungeonSlime.sourcelink.json
+c:\source\DungeonSlime\DungeonSlime\bin\Debug\net9.0\MonoGameLibrary.dll
+c:\source\DungeonSlime\DungeonSlime\bin\Debug\net9.0\MonoGameLibrary.pdb
