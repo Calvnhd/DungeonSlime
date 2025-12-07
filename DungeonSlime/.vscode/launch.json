@@ -8,7 +8,7 @@
         "name": "C#: DungeonSlime Debug",
         "type": "dotnet",
         "request": "launch",
-        "projectPath": "${workspaceFolder}/DungeonSlime.csproj"
+        "projectPath": "${workspaceFolder}/DungeonSlime/DungeonSlime.csproj"
       }
     ],
   }
