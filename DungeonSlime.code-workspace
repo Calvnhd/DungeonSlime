@@ -10,5 +10,38 @@
 			"path": "../docs.monogame.github.io"
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Launch DungeonSlime",
+				"type": "coreclr",
+				"request": "launch",
+				"preLaunchTask": "build",
+				"program": "${workspaceFolder:DungeonSlime}/DungeonSlime/bin/Debug/net9.0/DungeonSlime.dll",
+				"args": [],
+				"cwd": "${workspaceFolder:DungeonSlime}/DungeonSlime",
+				"console": "internalConsole",
+				"stopAtEntry": false
+			}
+		]
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "build",
+				"command": "dotnet",
+				"type": "process",
+				"args": [
+					"build",
+					"${workspaceFolder:DungeonSlime}/DungeonSlime.sln",
+					"/property:GenerateFullPaths=true",
+					"/consoleloggerparameters:NoSummary;ForceNoAlign"
+				],
+				"problemMatcher": "$msCompile"
+			}
+		]
+	}
 }
