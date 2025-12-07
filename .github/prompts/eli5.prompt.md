@@ -10,4 +10,4 @@ description: Use to explain concepts that you're unfamiliar with
 - If this code is an example of a common pattern, inlude details on the pattern and its use .
 - Keep your explanation brief.  It should be able to be read and understood in less than 2 minutes.
 - If relevant, give an example of improvements or alternative methods to achieve the same (or improved) outcomes.
-- If the code snippet is specific to MonoGame, you MUST search and reference both the MonoGame documentation and samples in this workspace. 
+- If the code snippet is specific to MonoGame, you MUST search and reference both the MonoGame documentation and MonoGame samples in this workspace. 
