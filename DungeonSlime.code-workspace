@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../MonoGame.Samples"
+		},
+		{
+			"path": "../docs.monogame.github.io"
+		}
+	],
+	"settings": {}
+}
