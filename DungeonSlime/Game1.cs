@@ -1,4 +1,6 @@
-﻿using DungeonSlime.Scenes;
+﻿// https://docs.monogame.net/articles/tutorials/building_2d_games/index.html
+
+using DungeonSlime.Scenes;
 using Gum.Forms;
 using Gum.Forms.Controls;
 using MonoGameLibrary;
